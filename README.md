@@ -1,6 +1,6 @@
 # Climate Change and Crop Yield Analysis in India
 
-A B.Sc. Data Science project exploring the relationship between temperature, rainfall and the yield of four major crops in India: Maize, Rice, Soybean and Wheat.
+A Data Science project exploring the relationship between temperature, rainfall and the yield of four major crops in India: Maize, Rice, Soybean and Wheat.
 
 ## Project overview
 
