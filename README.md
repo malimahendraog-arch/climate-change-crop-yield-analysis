@@ -6,7 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-data%20analysis-150458)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-visualisation-11557c)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/climate-change-crop-yield-analysis/blob/main/Climate_Change_Crop_Yield_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malimahendraog-arch/climate-change-crop-yield-analysis/blob/main/Climate_Change_Crop_Yield_Analysis.ipynb)
 
 📄 **Full report (PDF):** [report/Climate_Change_Crop_Yield_India_Report.pdf](report/Climate_Change_Crop_Yield_India_Report.pdf)
 
@@ -191,8 +191,7 @@ The raw FAOSTAT download is not stored in the repo because of its size. The note
 
 **Mahendra Mali**
 
-- GitHub: (https://github.com/YOUR-USERNAME)
-- LinkedIn: (https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- GitHub: [@malimahendraog-arch](https://github.com/malimahendraog-arch)
 
 If this project helped you, feel free to ⭐ the repo.
 
