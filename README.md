@@ -191,8 +191,8 @@ The raw FAOSTAT download is not stored in the repo because of its size. The note
 
 **Mahendra Mali**
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: [YOUR-NAME](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- GitHub: (https://github.com/YOUR-USERNAME)
+- LinkedIn: (https://www.linkedin.com/in/YOUR-LINKEDIN/)
 
 If this project helped you, feel free to ⭐ the repo.
 
